@@ -8,14 +8,16 @@ import Cover from './Cover';
 
 function Home() {
     return (
-        <div>
-            <Cover />
-            <About style_1="about" image="https://res.cloudinary.com/dt5rqi1l9/image/upload/v1599544701/pic1_qnqxeo.jpg"/>
-            <Education style_1="edu-work"/>
-            <Skills />
-            <Projects />
-            <End />
-        </div>
+        <div className="animated fadeIn">
+            
+                <Cover />
+                <About style_1="about" image="https://res.cloudinary.com/dt5rqi1l9/image/upload/v1599544701/pic1_qnqxeo.jpg" />
+                <Education style_1="edu-work" />
+                <Skills />
+                <Projects />
+                <End />
+           
+        </div >
     );
 }
 

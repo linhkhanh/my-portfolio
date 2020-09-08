@@ -7,7 +7,7 @@ function SkillPage() {
             <div className="light-blue-1">
 
             </div>
-            <div class="example z-depth-2 text-center">
+            <div class="example z-depth-2 text-center animated fadeInDown">
                 <h1>My Skills</h1>
             </div>
             <Skills />

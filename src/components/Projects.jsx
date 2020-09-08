@@ -63,7 +63,7 @@ function Projects() {
                                     {/* <!--Footer--> */}
                                     <div class="modal-footer justify-content-center">
                                         <a type="button" class="btn btn-primary" href="https://github.com/linhkhanh/Project-1">View code</a>
-                                        <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal" href="https://linhkhanh.github.io/Project-1/index.html">Demo</a>
+                                        <a type="button" class="btn btn-outline-primary waves-effect" href="https://linhkhanh.github.io/Project-1/index.html">Demo</a>
                                     </div>
                                 </div>
                                 {/* <!--/.Content--> */}
@@ -123,7 +123,7 @@ function Projects() {
                                     {/* <!--Footer--> */}
                                     <div class="modal-footer justify-content-center">
                                         <a type="button" class="btn btn-primary" href="https://github.com/linhkhanh/project2">View code</a>
-                                        <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal" href="http://lico-project2-ga.herokuapp.com/lico/login">Demo</a>
+                                        <a type="button" class="btn btn-outline-primary waves-effect"  href="http://lico-project2-ga.herokuapp.com/lico/login">Demo</a>
                                     </div>
                                 </div>
                                 {/* <!--/.Content--> */}
@@ -183,7 +183,7 @@ function Projects() {
                                 {/* <!--Footer--> */}
                                 <div class="modal-footer justify-content-center">
                                     <a type="button" class="btn btn-primary" href="https://github.com/linhkhanh/project2">View code</a>
-                                    <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal" href="http://lico-project2-ga.herokuapp.com/lico/login">Demo</a>
+                                    <a type="button" class="btn btn-outline-primary waves-effect" href="http://lico-project2-ga.herokuapp.com/lico/login">Demo</a>
                                 </div>
                             </div>
                             {/* <!--/.Content--> */}

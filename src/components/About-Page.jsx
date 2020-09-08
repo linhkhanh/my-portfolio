@@ -6,7 +6,7 @@ function AboutPage() {
             <div className="light-blue-1">
 
             </div>
-            <div class="example z-depth-2 text-center">
+            <div class="example z-depth-2 text-center animated fadeInDown">
                 <h1>About</h1>
             </div>
             <About image="https://res.cloudinary.com/dt5rqi1l9/image/upload/v1599544761/pic2_rntyik.jpg" />

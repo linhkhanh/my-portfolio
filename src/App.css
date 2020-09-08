@@ -158,13 +158,14 @@ p {
   width: 80%;
   margin: auto;
   justify-content: space-around;
+  padding-bottom: 5%;
 }
 
 .contact {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  padding-bottom: 30%;
+  padding-bottom: 20%;
 }
 
 .hear {
@@ -183,7 +184,7 @@ p {
 
 .form {
   position: relative;
-  bottom: 300px;
+  bottom: 200px;
   display: flex;
   flex-direction: row;
   width: 70%;
@@ -230,13 +231,16 @@ form {
   color: white
 }
 
-a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
+footer.page-footer a {
   color: black;
-  text-decoration: none;
 }
 
 .contact-part {
   background-color: #f7f7f7;
   text-align: center;
   padding: 5%;
+}
+
+.modal-backdrop.show {
+  display: none;
 }
