@@ -13,7 +13,7 @@ function Cover() {
 
                 <div className="cover">
                     <h1 className="name">Hi, I'm Linh Le</h1>
-                    <h4>Student in General Assembly - Software engineering immersive course</h4>
+                    <h4>Student in General Assembly - Software Engineering Immersive Course</h4>
                     <h5>Dependent pass</h5>
                 </div>
             </Parallax>

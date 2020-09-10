@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Teko:wght@500&display=swap');
+
 body {
   font-family: 'M PLUS 1p', sans-serif;
 }
@@ -91,7 +93,7 @@ p {
   margin-bottom: 5%;
 }
 .container-1 {
-  width: 80%;
+  width: 70%;
   background-color: #ddd;
   margin-bottom: 2%;
   border-radius: 10px;
@@ -104,14 +106,14 @@ p {
   border-radius: 10px;
 }
 
-.html {width: 90%; background-color: #007E33;}
-.css {width: 80%; background-color: #0099CC;}
-.js {width: 80%; background-color: #f44336;}
-.node {width: 75%; background-color: #9933CC;}
+.html {width: 90%; background-color: #00695c;}
+.css {width: 80%; background-color: #00695c;}
+.js {width: 80%; background-color: #00695c;}
+.node {width: 75%; background-color: #00695c;}
 .mongo {width: 60%; background-color: #00695c;}
-.boost {width: 80%; background-color: #0d47a1;}
-.react {width: 65%; background-color: #3F729B;}
-.sql {width: 50%; background-color: #FF8800;}
+.boost {width: 80%; background-color: #00695c;}
+.react {width: 65%; background-color: #00695c;}
+.sql {width: 50%; background-color: #00695c;}
 
 .one-project {
   min-height: 500px;
@@ -125,6 +127,7 @@ p {
 
 .love {
   margin: 2%;
+  font-family: 'Teko', sans-serif;
 }
 
 .bt-contact-1 {
@@ -200,7 +203,8 @@ form {
 
 .chat {
   background-color: salmon;
-  padding: 2%;
+  padding: 1%;
+  font-family: 'Righteous', cursive;
 }
 
 .right {
@@ -243,4 +247,8 @@ footer.page-footer a {
 
 .modal-backdrop.show {
   display: none;
+}
+
+.project {
+  padding: 3% 0;
 }
