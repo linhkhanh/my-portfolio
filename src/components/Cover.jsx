@@ -12,8 +12,8 @@ function Cover() {
             >
 
                 <div className="cover">
-                    <h1 className="name">Hi, I'm Linh Le</h1>
-                    <h4>Student in General Assembly - Software Engineering Immersive Course</h4>
+                    <h1>Hi, I'm Linh Le</h1>
+                    <h2 className="name">Full-Stack Software Engineer</h2>
                     <h5>Dependent pass</h5>
                 </div>
             </Parallax>

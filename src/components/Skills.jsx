@@ -29,6 +29,13 @@ function Skills() {
                     </div>
 
                     <div className="one-skill">
+                        <p>Boostrap</p>
+                        <div class="container-1">
+                            <div class="skills boost"></div>
+                        </div>
+                    </div>
+
+                    <div className="one-skill">
                         <p>NodeJS</p>
                         <div class="container-1">
                             <div class="skills node"></div>
@@ -36,9 +43,9 @@ function Skills() {
                     </div>
 
                     <div className="one-skill">
-                        <p>Boostrap</p>
+                        <p>ReactJS</p>
                         <div class="container-1">
-                            <div class="skills boost"></div>
+                            <div class="skills react"></div>
                         </div>
                     </div>
 
@@ -50,12 +57,7 @@ function Skills() {
                         </div>
                     </div>
 
-                    <div className="one-skill">
-                        <p>ReactJS</p>
-                        <div class="container-1">
-                            <div class="skills react"></div>
-                        </div>
-                    </div>
+
 
                     <div className="one-skill">
                         <p>SQL</p>

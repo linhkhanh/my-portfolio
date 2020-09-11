@@ -102,18 +102,18 @@ p {
 .skills {
   text-align: right;
   color: white;
-  padding: 0.2%;
+  padding: 0.5%;
   border-radius: 10px;
 }
 
 .html {width: 90%; background-color: #00695c;}
-.css {width: 80%; background-color: #00695c;}
-.js {width: 80%; background-color: #00695c;}
-.node {width: 75%; background-color: #00695c;}
-.mongo {width: 60%; background-color: #00695c;}
-.boost {width: 80%; background-color: #00695c;}
-.react {width: 65%; background-color: #00695c;}
-.sql {width: 50%; background-color: #00695c;}
+.css {width: 85%; background-color: #00695c;}
+.js {width: 80%; background-color: #e9db5d;}
+.node {width: 75%; background-color: #e9db5d;}
+.mongo {width: 60%; background-color: #FF8800;}
+.boost {width: 80%; background-color: #e9db5d;}
+.react {width: 65%; background-color: #FF8800;}
+.sql {width: 50%; background-color: #FF8800;}
 
 .one-project {
   min-height: 500px;
@@ -251,4 +251,9 @@ footer.page-footer a {
 
 .project {
   padding: 3% 0;
+}
+
+ .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: darkred;
+  font-weight: 500;
 }

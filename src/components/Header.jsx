@@ -22,31 +22,31 @@ function Header() {
                         <ul class="navbar-nav mr-auto">
                             <Link to="/">
                                 <li class="nav-item">
-                                    <a class="nav-link waves-effect" href="/">Home</a>
+                                    <p class="nav-link" href="/">Home</p>
                                 </li>
                             </Link>
 
                             <Link to="/about">
                                 <li class="nav-item">
-                                    <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/jquery/">About</a>
+                                    <p class="nav-link waves-effect">About</p>
                                 </li>
                             </Link>
 
                             <Link to="/skills">
                                 <li class="nav-item">
-                                    <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/angular/">Skills</a>
+                                    <p class="nav-link waves-effect">Skills</p>
                                 </li>
                             </Link>
 
                             <Link to="/education_experience">
                                 <li class="nav-item">
-                                    <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/react/">Education & Experience</a>
+                                    <p class="nav-link waves-effect">Education & Experience</p>
                                 </li>
                             </Link>
 
                             <Link to="/projects" >
                                 <li class="nav-item">
-                                    <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/vue/">Projects</a>
+                                    <p class="nav-link waves-effect">Projects</p>
                                 </li>
                             </Link>
                         </ul>
